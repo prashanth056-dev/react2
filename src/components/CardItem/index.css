@@ -1,0 +1,51 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 5px;
+  padding: 15px;
+  width: 40%;
+  list-style: none;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 5px;
+  padding: 15px;
+  width: 40%;
+  list-style: none;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 5px;
+  padding: 15px;
+  width: 40%;
+  list-style: none;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 5px;
+  padding: 15px;
+  width: 40%;
+  list-style: none;
+}
+
+.imgCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.head {
+  color: #171f46;
+}
+.info {
+  color: #64748b;
+}
